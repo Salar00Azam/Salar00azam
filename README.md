@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Salar
 
-<!--
-**Salar00Azam/Salar00azam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior IT security technician and ethical hacker based in Sweden. I graduated from Edugrade's IT Security / Ethical Hacking program in 2026 and I'm looking for my first full-time role in security.
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Penetration testing — Nmap, Burp Suite, Metasploit
+- Cloud security — Azure, Kubernetes (AKS)
+- Network security, Linux/Windows administration, Active Directory
+- Scripting in Python and Bash
+
+### Currently
+
+- Building and testing small security tools — see [prompt-injection-scanner](https://github.com/Salar00azam/prompt-injection-scanner)
+- Digging into LLM/AI security and the NIS2 directive
+
+### Open to
+
+Security technician, SOC, and junior pentest roles.
