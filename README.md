@@ -16,4 +16,4 @@ Junior IT security technician and ethical hacker based in Sweden. I graduated fr
 
 ### Open to
 
-Security technician, SOC, and junior pentest roles.
+Open to junior roles in security, networking, and IT operations — SOC, security technician, pentest, and similar
